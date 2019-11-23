@@ -37,3 +37,4 @@
 - Markdown Open Preview to the side - Ctrl + K + V
 - Toggle Word Wrap -  Ctrl + Alt + W
 - Cambiar ocurencias simbolo(incluso en otros archivos) - F2
+- Ir a Settings - Ctrl + ,
