@@ -33,7 +33,7 @@
 ---
 - Ver definiciones ordenadas - Ctrl + P . @: ||  Ctrl + Shift o - . @
 - Ir a linea - Ctrl + G . numLinea || Ctrl + P . : . numLinea
-- Markdown Open Preview - Ctrl + Alt + V 
+- Markdown Open Preview - Ctrl + Alt + P 
 - Markdown Open Preview to the side - Ctrl + K + V
 - Toggle Word Wrap -  Ctrl + Alt + W
 - Cambiar ocurencias simbolo - F2
