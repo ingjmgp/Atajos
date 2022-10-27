@@ -2,6 +2,7 @@
 
 - Mover linea - Alt + ↑ / ↓
 - Copiar linea - Shift + Alt + ↑ / ↓
+- Seleccionar siguiente aparición - Ctrl + D
 - Seleccionar todas las apariciones - Ctrl + Shift + L
 - Crear múltiples cursores - Ctrl + Alt+ ↑ / ↓
 - Selección multiple - Alt + Click
@@ -25,6 +26,8 @@
 * Cerrar todas - Ctrl + K  Ctrl + W  
 * Reabrir anterior - Ctrl + Shift + T    
 * Cambiar de tab - Ctrl + TAB  
+* Cambiar a tab anterior- Ctrl + PG UP  
+* Cambiar a tab siguiente- Ctrl + PG DN   
 ---
 ---
 * Usar atajo Emmet -  Ctrl + SHIFT + P . Buscar Emmet...
