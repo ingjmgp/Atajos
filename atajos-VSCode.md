@@ -8,7 +8,7 @@
 - Selección multiple - Alt + Click
 - Mover bloque - Seleccionar .  Alt + ↑ / ↓
 - Copiar bloque - Seleccionar .  Shift + Alt + ↑ / ↓
-- Comentar linea - Ctrl + \ || esp(Ctrl + ç)
+- Comentar linea - Ctrl + \ || esp(Ctrl + Shift + 7)
 - Comentar seleccion - Seleccionar .  Shift + Alt + A
 - Borrar linea seleccionada - Ctrl + Shift + K
 ---
@@ -41,3 +41,7 @@
 - Toggle Word Wrap -  Ctrl + Alt + W
 - Cambiar ocurencias simbolo - F2
 - Ir a Settings - Ctrl + ,
+---
+---
+#### Si algún atajo no funciona se pueden ver los que tenemos definidos (o cambiarlos) con: Ctrl + K + S
+
